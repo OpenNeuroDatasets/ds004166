@@ -1,0 +1,68 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+   "K_filter_1": {
+    "Description": "K_filtering efficiency at the pre-test"
+  },
+ "K_filter_2": {
+    "Description": "K_filtering efficiency at the mid-test"
+  },
+ "K_filter_3": {
+    "Description": "K_filtering efficiency at the post-test"
+  },
+     "suppress_rt_1": {
+    "Description": "suppress at the pre-test"
+  },
+  "suppress_rt_2": {
+    "Description": "suppress at the mid-test"
+  },
+  "suppress_rt_3": {
+    "Description": "suppress at the post-test"
+  },
+ "Kmax_1": {
+    "Description": "Kmax at the pre-test"
+  },
+ "Kmax_2": {
+    "Description": "Kmax at the mid-test"
+  },
+ "Kmax_3": {
+    "Description": "Kmax at the post-test"
+  },
+"spatial_span_B_1": {
+    "Description": "spatial span backward at the pre-test"
+  },
+ "spatial_span_B_2": {
+    "Description": "spatial span backward at the mid-test"
+  },
+"spatial_span_B_3": {
+    "Description": "spatial span backward at the post-test"
+  },
+  "spatial_span_F_1": {
+    "Description": "spatial span forward at the pre-test"
+  },
+ "spatial_span_F_2": {
+    "Description": "spatial span forward at the mid-test"
+  },
+"spatial_span_F_3": {
+    "Description": "spatial span forward at the post-test"
+  },
+"digital_span_B_1": {
+    "Description": "digital span backward at the pre-test"
+  },
+ "digital_span_B_2": {
+    "Description": "digital span backward at the mid-test"
+  },
+"digitall_span_B_3": {
+    "Description": "digital span backward at the post-test"
+  },
+"digital_span_F_1": {
+    "Description": "digital span backward at the pre-test"
+  },
+ "digital_span_F_2": {
+    "Description": "digital span backward at the mid-test"
+  },
+"digitall_span_F_3": {
+    "Description": "digital span backward at the post-test"
+  },
+}
